@@ -1,0 +1,6 @@
+GET /feed HTTP/1.1
+Host: vk.com
+Accept: text/html
+Connection: close
+
+http 80000
